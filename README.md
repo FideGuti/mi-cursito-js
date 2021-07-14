@@ -7,3 +7,11 @@
 - Segundo paso : implementar las formulas en javaScript 
 - Tecer paso : crear frunciones
 - Cuarto paso : Integrar JS con HTML
+
+## Taller #2 : Porcetaje y descuento
+
+- Primer paso: definir las formulas
+- Segundo paso : implementar las formulas en javaScript 
+- Tecer paso : crear frunciones
+- Cuarto paso : Integrar JS con HTML
+
